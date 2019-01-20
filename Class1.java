@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @Jazmin Ortega 
  */
 
 public class Class1 {
